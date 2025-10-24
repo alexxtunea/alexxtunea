@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey there! 👋<br>My name is Alexandra Tunea. <br>I'm a 2nd year Computer Engineering student at the Politehnica University of Timisoara.<br><br>I'm passionate about programming and electronics. <br><br>Whether it’s coding up games, tinkering with hardware, or exploring creative side projects, I love learning by doing. I enjoy turning concepts into real working things — especially if they blink, buzz, or run a bit of clever logic.
+Hey there! 👋<br>My name is Alexandra Tunea. <br>I'm a 3rd year Computer Engineering student at the Politehnica University of Timisoara.<br><br>I'm passionate about programming and electronics. <br><br>Whether it’s coding up games, tinkering with hardware, or exploring creative side projects, I love learning by doing. I enjoy turning concepts into real working things — especially if they blink, buzz, or run a bit of clever logic.
 
 
 # 💻 Tech Stack:
